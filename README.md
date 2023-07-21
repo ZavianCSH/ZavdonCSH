@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ZavdonCSH
-- 👀 I’m interested in Business and Tech
+- 👋 Hi, I’m Zavian
+- 👀 I’m interested in Politic activism, Computer Science and Economics & Finance
 - 🌱 I’m currently learning all things Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
