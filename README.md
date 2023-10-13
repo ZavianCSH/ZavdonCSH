@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zavian
-- 👀 I’m interested in Politic activism, Computer Science and Economics & Finance
-- 🌱 I’m currently learning all things Computer Science
+- 👀 I’m interested in Grassroots Organizing, Computer Science and Economics & Finance
+- 🌱 I’m currently learning C++, Python and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
