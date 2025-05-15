@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Zavian
-- 👀 I’m interested in Grassroots Organizing, Computer Science, Economics & Finance
 - 🌱 I’m currently learning C++, Python and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
